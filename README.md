@@ -62,4 +62,4 @@ function checkIfValidIP(str) {
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MagicAces)
-- Twitter - [@Isaac Oniti](https://www.twitter.com/yourusername)
+- Twitter - [@Isaac Oniti](https://www.twitter.com/IsaacOniti)
