@@ -46,6 +46,7 @@ function displayIP(ip) {
 	       }
 	   });
 	 });
+ }
 
   displayIP("");
 
@@ -66,4 +67,3 @@ function displayIP(ip) {
   	displayIP(ip);
     $("input").val("");
 	});
-});
